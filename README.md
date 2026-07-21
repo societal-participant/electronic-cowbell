@@ -1,2 +1,2 @@
-# electronic-cowbell
+# Electronic Cowbell
 Electronic cowbell files.
