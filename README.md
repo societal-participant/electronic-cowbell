@@ -7,8 +7,16 @@ Electronic cowbell files.
 
 ## Installing the Cowbell
 
+## Configuring the Cowbell
 
+### Configuring Sound Volume
+
+## Using the Cowbell
+
+Turning it On 
+
+Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNzUzNjU2LDE2Mjc1NzA4MTVdfQ==
+eyJoaXN0b3J5IjpbMTY2MDA2NzIyMywxNjI3NTcwODE1XX0=
 -->
