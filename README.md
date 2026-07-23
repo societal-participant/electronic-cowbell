@@ -1,5 +1,5 @@
 # Electronic Cowbell
-This repository contains project files for an electronic cowbell. 
+This repository contains project files for a 3D-printed electronic cowbell. 
 
 ## About the Cowbell
 
@@ -11,6 +11,8 @@ This repository contains project files for an electronic cowbell.
 
 ### Configuring Sound Volume
 
+## Printing the Cowbell
+
 ## Assembling the Cowbell
 
 ## Using the Cowbell
@@ -20,5 +22,6 @@ This repository contains project files for an electronic cowbell.
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIyNjQyOCwxNjI3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbLTEwMDY4OTc1MzAsLTEyMDIyNjQyOCwxNj
+I3NTcwODE1XX0=
 -->
