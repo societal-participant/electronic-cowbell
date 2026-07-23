@@ -1,22 +1,24 @@
 # Electronic Cowbell
-Electronic cowbell files.
+This repository contains project files for an electronic cowbell. 
 
 ## About the Cowbell
 
 ### Required Parts
 
-## Installing the Cowbell
+## Installing the Cowbell Files
 
 ## Configuring the Cowbell
 
 ### Configuring Sound Volume
 
+## Assembling the Cowbell
+
 ## Using the Cowbell
 
-Turning it On 
+### Turning It On 
 
-Ringing The Bell
+### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDA2NzIyMywxNjI3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbLTEyMDIyNjQyOCwxNjI3NTcwODE1XX0=
 -->
