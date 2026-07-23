@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2026 Maggie Giles, mgilesxo@gmail.com
+# SPDX-FileCopyrightText: 2026 Maggie Giles
 #
 # SPDX-License-Identifier: MIT
 """
