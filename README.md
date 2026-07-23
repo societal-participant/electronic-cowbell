@@ -1,9 +1,14 @@
 # Electronic Cowbell
 Electronic cowbell files.
 
-## Schematic
+## About the Cowbell
+
+### Required Parts
+
+## Installing the Cowbell
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzU3MDgxNV19
+eyJoaXN0b3J5IjpbNTUwNzUzNjU2LDE2Mjc1NzA4MTVdfQ==
 -->
