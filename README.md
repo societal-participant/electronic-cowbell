@@ -21,9 +21,10 @@ To install the cowbell files on your `CIRCUITPY` device, do the following:
 ## Printing the Cowbell
 The following print settings are recommended:
 
- - Print setting
+ - Infill 100%
+ - Tree supports 
 
-The cowbell.stl file is already 
+The cowbell model has standoffs inside for the Feather.
 
 ## Assembling the Cowbell
 
@@ -34,6 +35,6 @@ The cowbell.stl file is already
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQzMjM4MTAsLTEwMDY4OTc1MzAsLT
-EyMDIyNjQyOCwxNjI3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbMTU5MTQ5ODY4NSwtMTAwNjg5NzUzMCwtMT
+IwMjI2NDI4LDE2Mjc1NzA4MTVdfQ==
 -->
