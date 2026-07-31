@@ -1,5 +1,5 @@
 # Electronic Cowbell
-This repository contains project files for a 3D-printed electronic cowbell. 
+This repository contains project files for Maggie's 3D-printed electronic cowbell. 
 
 ## About the Cowbell
 
@@ -35,6 +35,6 @@ The cowbell model has standoffs inside for the Feather.
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTQ5ODY4NSwtMTAwNjg5NzUzMCwtMT
+eyJoaXN0b3J5IjpbMTA0MjgxMzMzMCwtMTAwNjg5NzUzMCwtMT
 IwMjI2NDI4LDE2Mjc1NzA4MTVdfQ==
 -->
