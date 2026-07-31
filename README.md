@@ -7,11 +7,12 @@ This repository contains project files for a 3D-printed electronic cowbell.
 
 ## Installing the Cowbell Files
 To download the cowbell files, do the following:
-
  1. On the [main github page](https://github.com/societal-participant/electronic-cowbell), click the **Code** button.
  2. Click Download ZIP. This downloads all the project files including the app and the .STL file for 3D printing later.
 
-To ins
+To install the cowbell files on your `CIRCUITPY` device, do the following:
+ 1. Extract the ZIP file you downloaded previously.
+ 2. Copy the contents of the **Cowbell_app** folder to the root of your `CIRCUITPY` device. 
 
 ## Configuring the Cowbell
 
@@ -28,6 +29,6 @@ To ins
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODAxOTc3LC0xMDA2ODk3NTMwLC0xMj
-AyMjY0MjgsMTYyNzU3MDgxNV19
+eyJoaXN0b3J5IjpbLTEzNjQ0OTEzNDEsLTEwMDY4OTc1MzAsLT
+EyMDIyNjQyOCwxNjI3NTcwODE1XX0=
 -->
