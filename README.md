@@ -6,6 +6,10 @@ This repository contains project files for a 3D-printed electronic cowbell.
 ### Required Parts
 
 ## Installing the Cowbell Files
+To download the cowbell files, do the following:
+
+ 1. On the main github page, click the **Code** button.
+ 2. 
 
 ## Configuring the Cowbell
 
@@ -22,6 +26,6 @@ This repository contains project files for a 3D-printed electronic cowbell.
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY4OTc1MzAsLTEyMDIyNjQyOCwxNj
-I3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbMTU1ODA1MTU3NiwtMTAwNjg5NzUzMCwtMT
+IwMjI2NDI4LDE2Mjc1NzA4MTVdfQ==
 -->
