@@ -39,6 +39,13 @@ The following print settings are recommended:
 The cowbell model has standoffs inside for attaching the Feather.
 
 ## Assembling the Cowbell
+### Solder the On/Off Switch
+
+### Attach the Speaker
+
+### Attach the Battery
+
+### Attach Evereyt
 
 ## Using the Cowbell
 
@@ -50,7 +57,7 @@ The cowbell model has standoffs inside for attaching the Feather.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE0ODA5MzAsMTEwNjk3MDE0MSwtND
-YxNjE0MzI1LDg4OTY5NTIwNywxMDQyODEzMzMwLC0xMDA2ODk3
-NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
+eyJoaXN0b3J5IjpbLTM3NDc1NDgyNiwxMTA2OTcwMTQxLC00Nj
+E2MTQzMjUsODg5Njk1MjA3LDEwNDI4MTMzMzAsLTEwMDY4OTc1
+MzAsLTEyMDIyNjQyOCwxNjI3NTcwODE1XX0=
 -->
