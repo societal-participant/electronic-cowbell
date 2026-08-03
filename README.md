@@ -2,7 +2,7 @@
 This repository contains project files for a 3D-printed electronic cowbell I created. 
 
 ## About the Cowbell
-The electronic cowbell is an ordinary cowbell, except that it makes noise electronically instead of like a simple metal cowbell. Simply turn on the switch, give it a gentle shake, and listen to it respond to the movements you make.
+The electronic cowbell is an ordinary cowbell, except that it makes noise electronically instead of like a simple metal cowbell. Simply turn on the switch, give it a gentle shake, and listen to it respond to your movement like a real cowbell.
 
 It's a wholly unnecessary object to have, but I thought it'd be fun to take something that wasn't electronic and then make it so.
 
@@ -50,7 +50,7 @@ The cowbell model has standoffs inside for attaching the Feather.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTYxNDMyNSw4ODk2OTUyMDcsMTA0Mj
-gxMzMzMCwtMTAwNjg5NzUzMCwtMTIwMjI2NDI4LDE2Mjc1NzA4
-MTVdfQ==
+eyJoaXN0b3J5IjpbMTEwNjk3MDE0MSwtNDYxNjE0MzI1LDg4OT
+Y5NTIwNywxMDQyODEzMzMwLC0xMDA2ODk3NTMwLC0xMjAyMjY0
+MjgsMTYyNzU3MDgxNV19
 -->
