@@ -7,6 +7,12 @@ The electronic cowbell is an ordinary cowbell, except that it makes noise electr
 It's a wholly unnecessary object to have, but I thought it'd be fun to take something that wasn't electronic and then make it so.
 
 ### Required Parts
+The following parts are needed to assemble the electronic cowbell:
+
+ - # Adafruit RP2040 Prop-Maker Feather with I2S Audio Amplifier
+ - # Breadboard-friendly SPDT Slide Switch
+ - # Mini Oval Speaker - 8 Ohm 1 Watt
+ - 
 
 ## Installing the Cowbell Files
 To download the cowbell files, do the following:
@@ -38,6 +44,7 @@ The cowbell model has standoffs inside for the Feather.
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5Njk1MjA3LDEwNDI4MTMzMzAsLTEwMD
-Y4OTc1MzAsLTEyMDIyNjQyOCwxNjI3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbLTY1ODkwNTkzLDg4OTY5NTIwNywxMDQyOD
+EzMzMwLC0xMDA2ODk3NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgx
+NV19
 -->
