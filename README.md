@@ -19,11 +19,11 @@ The following parts are needed to assemble the electronic cowbell:
 ## Installing the Cowbell Files
 To download the cowbell files, do the following:
  1. On the [main github page](https://github.com/societal-participant/electronic-cowbell), click the **Code** button.
- 2. Click **Download ZIP**. This downloads all the project files including the app and the .STL file for 3D printing later.
+ 2. Click **Download ZIP**. This downloads all the project files needed.
 
 To install the cowbell files on your `CIRCUITPY` device, do the following:
  1. Extract the ZIP file you downloaded previously.
- 2. Open the **Cowbell_app** folder.
+ 2. In the extracted ZIP, open the **Cowbell_app** folder.
  3. Copy the contents of the **Cowbell_app** folder to the root of your `CIRCUITPY` device. 
 
 ## Configuring the Cowbell
@@ -50,7 +50,7 @@ The cowbell model has standoffs inside for attaching the Feather.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjk3MDE0MSwtNDYxNjE0MzI1LDg4OT
-Y5NTIwNywxMDQyODEzMzMwLC0xMDA2ODk3NTMwLC0xMjAyMjY0
-MjgsMTYyNzU3MDgxNV19
+eyJoaXN0b3J5IjpbLTEzNzE0ODA5MzAsMTEwNjk3MDE0MSwtND
+YxNjE0MzI1LDg4OTY5NTIwNywxMDQyODEzMzMwLC0xMDA2ODk3
+NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
 -->
