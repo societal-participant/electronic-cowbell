@@ -13,6 +13,7 @@ The following parts are needed to assemble the electronic cowbell:
  - [Breadboard-friendly SPDT Slide Switch](https://www.adafruit.com/product/805)
  - [Mini Oval Speaker - 8 Ohm 1 Watt](https://www.adafruit.com/product/3923)
  - [Lithium Ion Polymer Battery with Short Cable - 3.7V 420mAh](https://www.adafruit.com/product/4236)
+ - Two 18 gauge wires (optionally: wires with female connectors)
  - [Double-sided foam tape](https://www.amazon.com/dp/B0DJLR75H9)
  - [3D-printed electronic cowbell enclosure](https://www.thingiverse.com/thing:7390052)
 
@@ -57,8 +58,8 @@ The cowbell model has standoffs inside for attaching the Feather.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkyMjUwNzMsLTE1ODU2OTE5NzMsMT
-EwNjk3MDE0MSwtNDYxNjE0MzI1LDg4OTY5NTIwNywxMDQyODEz
-MzMwLC0xMDA2ODk3NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgxNV
-19
+eyJoaXN0b3J5IjpbMTc1MzkwODYxNiwtMTgyOTIyNTA3MywtMT
+U4NTY5MTk3MywxMTA2OTcwMTQxLC00NjE2MTQzMjUsODg5Njk1
+MjA3LDEwNDI4MTMzMzAsLTEwMDY4OTc1MzAsLTEyMDIyNjQyOC
+wxNjI3NTcwODE1XX0=
 -->
