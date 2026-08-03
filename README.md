@@ -1,7 +1,8 @@
 # Electronic Cowbell
-This repository contains project files for Maggie's 3D-printed electronic cowbell. 
+This repository contains project files for a 3D-printed electronic cowbell I created. 
 
 ## About the Cowbell
+The electronic cowbell is an ordinary cowbell, only it makes noise electronicallt electronic instead of a simple metal cowbell
 
 ### Required Parts
 
@@ -35,6 +36,6 @@ The cowbell model has standoffs inside for the Feather.
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjgxMzMzMCwtMTAwNjg5NzUzMCwtMT
-IwMjI2NDI4LDE2Mjc1NzA4MTVdfQ==
+eyJoaXN0b3J5IjpbMjAwNzU2MTkwOCwxMDQyODEzMzMwLC0xMD
+A2ODk3NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
 -->
