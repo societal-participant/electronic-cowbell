@@ -36,7 +36,7 @@ The following print settings are recommended:
  - Infill 100%
  - Tree supports 
 
-The cowbell model has standoffs inside for attaching the Feather later.
+The cowbell model has standoffs inside for attaching the Feather.
 
 ## Assembling the Cowbell
 
@@ -44,12 +44,13 @@ The cowbell model has standoffs inside for attaching the Feather later.
 
 ### Turning It On 
 
-### Ringing The Bell
+### Ringing The Cowbell
 
 ### Charging the Cowbell
+The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY2NTU1ODgsODg5Njk1MjA3LDEwND
-I4MTMzMzAsLTEwMDY4OTc1MzAsLTEyMDIyNjQyOCwxNjI3NTcw
-ODE1XX0=
+eyJoaXN0b3J5IjpbLTQ2MTYxNDMyNSw4ODk2OTUyMDcsMTA0Mj
+gxMzMzMCwtMTAwNjg5NzUzMCwtMTIwMjI2NDI4LDE2Mjc1NzA4
+MTVdfQ==
 -->
