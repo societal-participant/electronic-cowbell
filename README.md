@@ -36,7 +36,7 @@ The following print settings are recommended:
  - Infill 100%
  - Tree supports 
 
-The cowbell model has standoffs inside for the Feather.
+The cowbell model has standoffs inside for attaching the Feather later.
 
 ## Assembling the Cowbell
 
@@ -46,8 +46,10 @@ The cowbell model has standoffs inside for the Feather.
 
 ### Ringing The Bell
 
+### Charging the Cowbell
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMjAyODA2LDg4OTY5NTIwNywxMDQyOD
-EzMzMwLC0xMDA2ODk3NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgx
-NV19
+eyJoaXN0b3J5IjpbLTE3MTY2NTU1ODgsODg5Njk1MjA3LDEwND
+I4MTMzMzAsLTEwMDY4OTc1MzAsLTEyMDIyNjQyOCwxNjI3NTcw
+ODE1XX0=
 -->
