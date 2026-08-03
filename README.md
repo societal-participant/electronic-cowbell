@@ -9,10 +9,11 @@ It's a wholly unnecessary object to have, but I thought it'd be fun to take some
 ### Required Parts
 The following parts are needed to assemble the electronic cowbell:
 
- - # Adafruit RP2040 Prop-Maker Feather with I2S Audio Amplifier
- - # Breadboard-friendly SPDT Slide Switch
- - # Mini Oval Speaker - 8 Ohm 1 Watt
- - 
+ - [Adafruit RP2040 Prop-Maker Feather with I2S Audio Amplifier](https://www.adafruit.com/product/5768)
+ - [Breadboard-friendly SPDT Slide Switch](https://www.adafruit.com/product/805)
+ - [Mini Oval Speaker - 8 Ohm 1 Watt](https://www.adafruit.com/product/3923)
+ - [Lithium Ion Polymer Battery with Short Cable - 3.7V 420mAh](https://www.adafruit.com/product/4236)
+ - 3D-printed cowbell enclosure
 
 ## Installing the Cowbell Files
 To download the cowbell files, do the following:
@@ -44,7 +45,7 @@ The cowbell model has standoffs inside for the Feather.
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODkwNTkzLDg4OTY5NTIwNywxMDQyOD
-EzMzMwLC0xMDA2ODk3NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgx
-NV19
+eyJoaXN0b3J5IjpbLTc5MTc5MDA2OSw4ODk2OTUyMDcsMTA0Mj
+gxMzMzMCwtMTAwNjg5NzUzMCwtMTIwMjI2NDI4LDE2Mjc1NzA4
+MTVdfQ==
 -->
