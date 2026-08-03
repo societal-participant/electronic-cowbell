@@ -13,7 +13,8 @@ The following parts are needed to assemble the electronic cowbell:
  - [Breadboard-friendly SPDT Slide Switch](https://www.adafruit.com/product/805)
  - [Mini Oval Speaker - 8 Ohm 1 Watt](https://www.adafruit.com/product/3923)
  - [Lithium Ion Polymer Battery with Short Cable - 3.7V 420mAh](https://www.adafruit.com/product/4236)
- - 3D-printed cowbell enclosure
+ - [Double-sided foam tape](https://www.amazon.com/dp/B0DJLR75H9)
+ - [3D-printed electronic cowbell enclosure](https://www.thingiverse.com/thing:7390052)
 
 ## Installing the Cowbell Files
 To download the cowbell files, do the following:
@@ -45,7 +46,7 @@ The cowbell model has standoffs inside for the Feather.
 ### Ringing The Bell
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTc5MDA2OSw4ODk2OTUyMDcsMTA0Mj
-gxMzMzMCwtMTAwNjg5NzUzMCwtMTIwMjI2NDI4LDE2Mjc1NzA4
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MjQzNTY5NzIsODg5Njk1MjA3LDEwND
+I4MTMzMzAsLTEwMDY4OTc1MzAsLTEyMDIyNjQyOCwxNjI3NTcw
+ODE1XX0=
 -->
