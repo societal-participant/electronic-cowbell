@@ -42,7 +42,8 @@ The cowbell model has standoffs inside for attaching the Feather, which is the r
 ## Assembling the Cowbell
 Assembling the cowbell is done in two parts. First, attach the peripherals to the Feather. Then, attach the Feather and the peripherals to the inside of the cowbell.
 
-The following diagram shows where to solder or attach specific par
+The following diagram shows where to solder or attach specific parts:
+![enter image description here](https://substack-post-media.s3.amazonaws.com/public/images/18aa8d9d-e1a2-4151-bf21-c45ee63a3752_1496x1150.jpeg)
 
 ### Soldering the On/Off Switch
 You attach the power switch by soldering two wires from the switch to the Feather. To attach the power switch:
@@ -78,8 +79,8 @@ Attach the battery by plugging it in to the battery terminal on the Feather.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MTY2MjU1LDE5MzkyNDc5OTQsMTc1Mz
-kwODYxNiwtMTgyOTIyNTA3MywtMTU4NTY5MTk3MywxMTA2OTcw
-MTQxLC00NjE2MTQzMjUsODg5Njk1MjA3LDEwNDI4MTMzMzAsLT
-EwMDY4OTc1MzAsLTEyMDIyNjQyOCwxNjI3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbLTY5MTMxNDk3NCwxOTM5MjQ3OTk0LDE3NT
+M5MDg2MTYsLTE4MjkyMjUwNzMsLTE1ODU2OTE5NzMsMTEwNjk3
+MDE0MSwtNDYxNjE0MzI1LDg4OTY5NTIwNywxMDQyODEzMzMwLC
+0xMDA2ODk3NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
 -->
