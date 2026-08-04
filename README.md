@@ -72,7 +72,7 @@ To attach everything to the inside of the cowbell:
 
  1. Cut 4 small squares of double-sided foam tape.
  2. Place a square in each corner on the back of the Feather.
- 3. Peel the protective paper off and stick the Feather to the standoffs inside the cowbell, making sure that the USB-C port is facing the cowbell opening, otherwise charging it will be difficult.
+ 3. Peel the protective paper off and stick the Feather to the standoffs inside the cowbell, making sure that the USB-C port is facing the cowbell opening.
  4. Cut small pieces of foam tape for the battery and for the on/off switch.
  5. Place a piece of foam tape on the battery and the on/off switch.
  6. Peel the protective paper off and stick the battery and the on/off switch to the inside of the cowbell. 
@@ -89,9 +89,9 @@ To ring the cowbell, while it's on, give it a gentle shake.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI1MzM2NTksMTc4MzA3MzAwMCwtNj
-kxMzE0OTc0LDE5MzkyNDc5OTQsMTc1MzkwODYxNiwtMTgyOTIy
-NTA3MywtMTU4NTY5MTk3MywxMTA2OTcwMTQxLC00NjE2MTQzMj
-UsODg5Njk1MjA3LDEwNDI4MTMzMzAsLTEwMDY4OTc1MzAsLTEy
-MDIyNjQyOCwxNjI3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbLTM0NjgwMjA3NiwxNzgzMDczMDAwLC02OT
+EzMTQ5NzQsMTkzOTI0Nzk5NCwxNzUzOTA4NjE2LC0xODI5MjI1
+MDczLC0xNTg1NjkxOTczLDExMDY5NzAxNDEsLTQ2MTYxNDMyNS
+w4ODk2OTUyMDcsMTA0MjgxMzMzMCwtMTAwNjg5NzUzMCwtMTIw
+MjI2NDI4LDE2Mjc1NzA4MTVdfQ==
 -->
