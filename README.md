@@ -46,8 +46,8 @@ You attach the power switch by soldering two wires from the switch to the Feathe
 1.  Cut off one of the side pins on the power switch (not the middle pin). You should be left with one side pin and the middle pin.
 2.  Solder one wire to each pin.
 3.  Solder the other ends of the wire to the Feather.
-    a.  Solder one wire to the Ground (G) pin.
-    b.  Solder the other wire to the Enable pin (EN).
+    1.  Solder one wire to the Ground (G) pin.
+    2.  Solder the other wire to the Enable pin (EN).
 4.  Double-check that the wires are properly soldered.
 
 ### Attaching the Speaker
@@ -60,6 +60,7 @@ The speaker is attached to the Feather board by using the screw terminals.
 5.  Screw the terminals shut.
 
 ### Attaching the Battery
+Attach the battery by plugging it in to the battery terminal on the Feather.
 
 ### Attaching Everything to the Cowbell
 
@@ -73,7 +74,7 @@ The speaker is attached to the Feather board by using the screw terminals.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1NzUzODI2LDE3NTM5MDg2MTYsLTE4Mj
+eyJoaXN0b3J5IjpbMzQxMDYyNjkxLDE3NTM5MDg2MTYsLTE4Mj
 kyMjUwNzMsLTE1ODU2OTE5NzMsMTEwNjk3MDE0MSwtNDYxNjE0
 MzI1LDg4OTY5NTIwNywxMDQyODEzMzMwLC0xMDA2ODk3NTMwLC
 0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
