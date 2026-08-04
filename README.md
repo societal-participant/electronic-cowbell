@@ -68,6 +68,11 @@ The speaker is attached to the Feather board by using the screw terminals.
 Attach the battery by plugging it in to the battery terminal on the Feather.
 
 ### Attaching Everything to the Cowbell
+To attach everything to the inside of the cowbell:
+
+ 1. Cut 4 small squares of double-sided foam tape.
+ 2. Place a square in each corner on the back of the Feather.
+ 3. 
 
 ## Using the Cowbell
 
@@ -79,8 +84,9 @@ Attach the battery by plugging it in to the battery terminal on the Feather.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTMxNDk3NCwxOTM5MjQ3OTk0LDE3NT
-M5MDg2MTYsLTE4MjkyMjUwNzMsLTE1ODU2OTE5NzMsMTEwNjk3
-MDE0MSwtNDYxNjE0MzI1LDg4OTY5NTIwNywxMDQyODEzMzMwLC
-0xMDA2ODk3NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
+eyJoaXN0b3J5IjpbMTMzNDc2OTc3MSwtNjkxMzE0OTc0LDE5Mz
+kyNDc5OTQsMTc1MzkwODYxNiwtMTgyOTIyNTA3MywtMTU4NTY5
+MTk3MywxMTA2OTcwMTQxLC00NjE2MTQzMjUsODg5Njk1MjA3LD
+EwNDI4MTMzMzAsLTEwMDY4OTc1MzAsLTEyMDIyNjQyOCwxNjI3
+NTcwODE1XX0=
 -->
