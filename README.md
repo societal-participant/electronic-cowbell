@@ -40,13 +40,28 @@ The following print settings are recommended:
 The cowbell model has standoffs inside for attaching the Feather.
 
 ## Assembling the Cowbell
-### Solder the On/Off Switch
+### Soldering the On/Off Switch
+You attach the power switch by soldering two wires from the switch to the Feather. To attach the power switch:
 
-### Attach the Speaker
+1.  Cut off one of the side pins on the power switch (not the middle pin). You should be left with one side pin and the middle pin.
+2.  Solder one wire to each pin.
+3.  Solder the other ends of the wire to the Feather.
+    a.  Solder one wire to the Ground (G) pin.
+    b.  Solder the other wire to the Enable pin (EN).
+4.  Double-check that the wires are properly soldered.
 
-### Attach the Battery
+### Attaching the Speaker
+The speaker is attached to the Feather board by using the screw terminals.
 
-### Attach Everything to the Cowbell
+1.  Cut the male connector off of the end of the speaker wire.
+2.  Unscrew two screw terminals.
+3.  Strip the ends of the two speaker wires.
+4.  Place the two speaker wires in the terminals.
+5.  Screw the terminals shut.
+
+### Attaching the Battery
+
+### Attaching Everything to the Cowbell
 
 ## Using the Cowbell
 
@@ -58,8 +73,8 @@ The cowbell model has standoffs inside for attaching the Feather.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzkwODYxNiwtMTgyOTIyNTA3MywtMT
-U4NTY5MTk3MywxMTA2OTcwMTQxLC00NjE2MTQzMjUsODg5Njk1
-MjA3LDEwNDI4MTMzMzAsLTEwMDY4OTc1MzAsLTEyMDIyNjQyOC
-wxNjI3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbNTQ1NzUzODI2LDE3NTM5MDg2MTYsLTE4Mj
+kyMjUwNzMsLTE1ODU2OTE5NzMsMTEwNjk3MDE0MSwtNDYxNjE0
+MzI1LDg4OTY5NTIwNywxMDQyODEzMzMwLC0xMDA2ODk3NTMwLC
+0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
 -->
