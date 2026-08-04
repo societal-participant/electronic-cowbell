@@ -37,7 +37,7 @@ The following print settings are recommended:
  - Infill 100%
  - Tree supports 
 
-The cowbell model has standoffs inside for attaching the Feather.
+The cowbell model has standoffs inside for attaching the Feather, which is the reason supports are needed.
 
 ## Assembling the Cowbell
 ### Soldering the On/Off Switch
@@ -74,8 +74,8 @@ Attach the battery by plugging it in to the battery terminal on the Feather.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMDYyNjkxLDE3NTM5MDg2MTYsLTE4Mj
-kyMjUwNzMsLTE1ODU2OTE5NzMsMTEwNjk3MDE0MSwtNDYxNjE0
-MzI1LDg4OTY5NTIwNywxMDQyODEzMzMwLC0xMDA2ODk3NTMwLC
-0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
+eyJoaXN0b3J5IjpbMTkzOTI0Nzk5NCwxNzUzOTA4NjE2LC0xOD
+I5MjI1MDczLC0xNTg1NjkxOTczLDExMDY5NzAxNDEsLTQ2MTYx
+NDMyNSw4ODk2OTUyMDcsMTA0MjgxMzMzMCwtMTAwNjg5NzUzMC
+wtMTIwMjI2NDI4LDE2Mjc1NzA4MTVdfQ==
 -->
