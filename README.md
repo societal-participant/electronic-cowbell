@@ -29,7 +29,11 @@ To install the cowbell files on your `CIRCUITPY` device, do the following:
 
 ## Configuring the Cowbell
 
-### Configuring Sound Volume
+### Configuring Motion Settings
+Changing the configuration of the motion settings should be done at your own risk. Make a backup of the code.py file before you change the values in case you need to revert changes.
+
+The following settings can be changed:
+
 
 ## Printing the Cowbell
 The following print settings are recommended:
@@ -89,9 +93,9 @@ To ring the cowbell, while it's on, give it a gentle shake.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjgwMjA3NiwxNzgzMDczMDAwLC02OT
-EzMTQ5NzQsMTkzOTI0Nzk5NCwxNzUzOTA4NjE2LC0xODI5MjI1
-MDczLC0xNTg1NjkxOTczLDExMDY5NzAxNDEsLTQ2MTYxNDMyNS
-w4ODk2OTUyMDcsMTA0MjgxMzMzMCwtMTAwNjg5NzUzMCwtMTIw
-MjI2NDI4LDE2Mjc1NzA4MTVdfQ==
+eyJoaXN0b3J5IjpbLTQ1MjQwNjA3OCwtMzQ2ODAyMDc2LDE3OD
+MwNzMwMDAsLTY5MTMxNDk3NCwxOTM5MjQ3OTk0LDE3NTM5MDg2
+MTYsLTE4MjkyMjUwNzMsLTE1ODU2OTE5NzMsMTEwNjk3MDE0MS
+wtNDYxNjE0MzI1LDg4OTY5NTIwNywxMDQyODEzMzMwLC0xMDA2
+ODk3NTMwLC0xMjAyMjY0MjgsMTYyNzU3MDgxNV19
 -->
