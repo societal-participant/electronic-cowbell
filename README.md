@@ -30,7 +30,7 @@ To install the cowbell files on your `CIRCUITPY` device, do the following:
 ## Configuring the Cowbell
 
 ### Configuring Motion Settings
-Changing the configuration of the motion settings should be done at your own risk. Make a backup of the code.py file before you change the values in case you need to revert the changes.
+Changing the configuration of the motion settings is not necessary and should be done at your own risk. Make a backup of the code.py file before you change the values in case you need to revert the changes.
 
 To change the motion settings, update the value for **MOVEMENT_THRESHOLD**. Increasing the value increases the threshold required for the  sound to play. Increase the value to increase the amount of movement necessary before the sound is played. To lower the threshold, lower the value. 
 
@@ -93,7 +93,7 @@ To ring the cowbell, while it's on, give it a gentle shake.
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NTc2NzI0LC0zNDY4MDIwNzYsMTc4Mz
+eyJoaXN0b3J5IjpbNzI4NDc3NjMzLC0zNDY4MDIwNzYsMTc4Mz
 A3MzAwMCwtNjkxMzE0OTc0LDE5MzkyNDc5OTQsMTc1MzkwODYx
 NiwtMTgyOTIyNTA3MywtMTU4NTY5MTk3MywxMTA2OTcwMTQxLC
 00NjE2MTQzMjUsODg5Njk1MjA3LDEwNDI4MTMzMzAsLTEwMDY4
