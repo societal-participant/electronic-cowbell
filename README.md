@@ -92,10 +92,12 @@ To ring the cowbell, while it's on, give it a gentle shake.
 ### Charging the Cowbell
 The Feather has a USB-C charging port attached that you can use to charge the cowbell when its battery is low. Simply plug in a USB-C cable to charge it back up. 
 
+> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NDc3NjMzLC0zNDY4MDIwNzYsMTc4Mz
-A3MzAwMCwtNjkxMzE0OTc0LDE5MzkyNDc5OTQsMTc1MzkwODYx
-NiwtMTgyOTIyNTA3MywtMTU4NTY5MTk3MywxMTA2OTcwMTQxLC
-00NjE2MTQzMjUsODg5Njk1MjA3LDEwNDI4MTMzMzAsLTEwMDY4
-OTc1MzAsLTEyMDIyNjQyOCwxNjI3NTcwODE1XX0=
+eyJoaXN0b3J5IjpbLTExNjg2MjgxNjMsNzI4NDc3NjMzLC0zND
+Y4MDIwNzYsMTc4MzA3MzAwMCwtNjkxMzE0OTc0LDE5MzkyNDc5
+OTQsMTc1MzkwODYxNiwtMTgyOTIyNTA3MywtMTU4NTY5MTk3My
+wxMTA2OTcwMTQxLC00NjE2MTQzMjUsODg5Njk1MjA3LDEwNDI4
+MTMzMzAsLTEwMDY4OTc1MzAsLTEyMDIyNjQyOCwxNjI3NTcwOD
+E1XX0=
 -->
