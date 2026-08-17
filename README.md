@@ -32,9 +32,6 @@ To install the cowbell files on your `CIRCUITPY` device, do the following:
 ### Configuring Motion Settings
 Changing the configuration of the motion settings is not necessary and should be done at your own risk. Make a backup of the code.py file before you change the values in case you need to revert the changes.
 
-To change the motion settings, update the value for **MOVEMENT_THRESHOLD**. Increasing the value increases the threshold required for the  sound to play. Increase the value to increase the amount of movement necessary before the sound is played. To lower the threshold, lower the value. 
-
-
 ## Printing the Cowbell
 The following print settings are recommended:
 
@@ -94,10 +91,10 @@ The Feather has a USB-C charging port attached that you can use to charge the co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI5MTM3MywtMTE2ODYyODE2Myw3Mj
-g0Nzc2MzMsLTM0NjgwMjA3NiwxNzgzMDczMDAwLC02OTEzMTQ5
-NzQsMTkzOTI0Nzk5NCwxNzUzOTA4NjE2LC0xODI5MjI1MDczLC
-0xNTg1NjkxOTczLDExMDY5NzAxNDEsLTQ2MTYxNDMyNSw4ODk2
-OTUyMDcsMTA0MjgxMzMzMCwtMTAwNjg5NzUzMCwtMTIwMjI2ND
-I4LDE2Mjc1NzA4MTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDgzNDExNDAsLTExODI5MTM3MywtMT
+E2ODYyODE2Myw3Mjg0Nzc2MzMsLTM0NjgwMjA3NiwxNzgzMDcz
+MDAwLC02OTEzMTQ5NzQsMTkzOTI0Nzk5NCwxNzUzOTA4NjE2LC
+0xODI5MjI1MDczLC0xNTg1NjkxOTczLDExMDY5NzAxNDEsLTQ2
+MTYxNDMyNSw4ODk2OTUyMDcsMTA0MjgxMzMzMCwtMTAwNjg5Nz
+UzMCwtMTIwMjI2NDI4LDE2Mjc1NzA4MTVdfQ==
 -->
