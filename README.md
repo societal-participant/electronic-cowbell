@@ -62,11 +62,11 @@ You attach the power switch by soldering two wires from the switch to the Feathe
 ### Attaching the Speaker
 The speaker is attached to the Feather board by using the screw terminals.
 
-1.  Cut the male connector off of the end of the speaker wire.
+1.  Cut the male connector off of the end of the speaker wires.
 2.  Unscrew the + and - screw terminals.
 3.  Gently strip the ends of the two speaker wires.
 4.  Place the red wire in the + terminal and the black wire in the - terminal.
-5.  Screw the terminal shut.
+5.  Screw each terminal shut.
 
 ### Attaching the Battery
 Attach the battery by plugging it in to the battery terminal on the Feather.
@@ -84,7 +84,7 @@ To attach everything to the inside of the cowbell:
 ## Using the Cowbell
 
 ### Turning It On 
-To turn on the cowbell, simply change the switch from off to on.
+To turn on the cowbell, change the switch from off to on.
 
 ### Ringing The Cowbell
 To ring the cowbell, while it's on, give it a gentle shake.
@@ -94,10 +94,10 @@ The Feather has a USB-C charging port attached that you can use to charge the co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNjE1NjQyLC0xMTY4NjI4MTYzLDcyOD
-Q3NzYzMywtMzQ2ODAyMDc2LDE3ODMwNzMwMDAsLTY5MTMxNDk3
-NCwxOTM5MjQ3OTk0LDE3NTM5MDg2MTYsLTE4MjkyMjUwNzMsLT
-E1ODU2OTE5NzMsMTEwNjk3MDE0MSwtNDYxNjE0MzI1LDg4OTY5
-NTIwNywxMDQyODEzMzMwLC0xMDA2ODk3NTMwLC0xMjAyMjY0Mj
-gsMTYyNzU3MDgxNV19
+eyJoaXN0b3J5IjpbLTExODI5MTM3MywtMTE2ODYyODE2Myw3Mj
+g0Nzc2MzMsLTM0NjgwMjA3NiwxNzgzMDczMDAwLC02OTEzMTQ5
+NzQsMTkzOTI0Nzk5NCwxNzUzOTA4NjE2LC0xODI5MjI1MDczLC
+0xNTg1NjkxOTczLDExMDY5NzAxNDEsLTQ2MTYxNDMyNSw4ODk2
+OTUyMDcsMTA0MjgxMzMzMCwtMTAwNjg5NzUzMCwtMTIwMjI2ND
+I4LDE2Mjc1NzA4MTVdfQ==
 -->
